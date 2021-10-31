@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mafu-rahman
 - 👀 I’m a tech nerd
-- 🌱 I’m currently learning Computer Science at York.
+- 🌱 I’m currently an Undergrad Computer Science student at York.
 - 📫 Reach me: mafu@my.yorku.ca
 
 <!---
