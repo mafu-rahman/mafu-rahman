@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mafu-rahman
-- 👀 I’m a tech nerd
-- 🌱 I’m currently an Undergrad Computer Science student at York.
+- 👋 Hi, I’m Mahfuz
+- 👀 I’m a tech nerd based in Toronto, Canada
+- 🌱 Currently a Computer Science Undergrad at York University
 - 📫 Reach me: mafu@my.yorku.ca
 
 <!---
