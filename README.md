@@ -1,10 +1,6 @@
 - 👋 Hi, I’m Mahfuz
-- 👀 I’m a tech nerd based in Toronto, Canada
-- 🌱 Currently a Computer Science Undergrad at York University
+- 👀 I’m a tech nerd pursuing a Computer Science degree at York University 
+- 🌱 Currently in my 2nd year learning in-depth Java, Python, MySQL, C and Data Structures
+- 🌐 Figuring out the next phase of the internet, particularly web3, cryptos, NFts and the a whole new digital world
 - 🥇 Goal in Life: Identify and solve a major crisis on a macro level
 - 📫 Reach me: mafu@my.yorku.ca
-
-<!---
-mafu-rahman/mafu-rahman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
