@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Mahfuz
 - 👀 I’m a tech nerd pursuing a Computer Science degree at York University, Toronto, Canada
 - 🌱 Currently in my 4th year learning Machine Learning, Distributed Systems, Data Structures, Software design, and operating systems.
-- 🌐 Figuring out the next phase of the internet, particularly web3, LLMs, NLP, and a whole new digital world
 - 🥇 Goal in Life: Identify and solve a major crisis on a macro level
 - 📫 Reach me: mafu@my.yorku.ca
