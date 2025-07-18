@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mahfuz
-- 👀 I’m a tech nerd pursuing a Computer Science degree at York University, Toronto, Canada
-- 🌱 Currently in my 4th year learning Machine Learning, Distributed Systems, Data Structures, Software design, and operating systems.
-- 🥇 Goal in Life: Identify and solve a major crisis on a macro level
-- 📫 Reach me: mafu@my.yorku.ca
+- 👀 I’m a tech nerd gradted from a Computer Science program at York University, Toronto, Canada
+- 🌱 Interests: Machine Learning, Distributed Systems, Data Structures, Software design, and operating systems.
+- 🥇 Goal in Life: Cause an impact that matters
+- 📫 Reach me: mahfuz800@gmail.com
